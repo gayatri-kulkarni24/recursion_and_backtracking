@@ -8,3 +8,7 @@ public static void changeArr(int arr[],int i,int val){
         changeArr(arr,i+1,val+1);
         arr[i]=arr[i]-2;
 }
+
+
+
+}
